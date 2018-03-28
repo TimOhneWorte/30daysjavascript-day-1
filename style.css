@@ -1,0 +1,17 @@
+.keyup {
+  border: 1px solid black;
+  font-size: 90pt;
+  width: 150px; 
+  height:150px;
+  text-align:center; 
+float:left;}
+
+.keydown {
+  border: 1px solid black;
+  background-color: blueviolet;
+  font-size: 90pt;
+  width: 150px; 
+  height:150px;
+  text-align:center; 
+float:left;  
+}
